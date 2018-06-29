@@ -16,7 +16,7 @@
                 </ul>
             </li>
             <li><a href="form.html"><i class="icon-edit"></i><span class="hidden-tablet"> Forms</span></a></li>
-            <li><a href="showdata.html"><i class="icon-list-alt"></i><span class="hidden-tablet"> 数据库</span></a></li>
+            <li><a href="host.html"><i class="icon-list-alt"></i><span class="hidden-tablet"> 资源列表</span></a></li>
             <li><a href="typography.html"><i class="icon-font"></i><span class="hidden-tablet"> Typography</span></a></li>
             <li><a href="gallery.html"><i class="icon-picture"></i><span class="hidden-tablet"> Gallery</span></a></li>
             <li><a href="table.html"><i class="icon-align-justify"></i><span class="hidden-tablet"> Tables</span></a></li>
